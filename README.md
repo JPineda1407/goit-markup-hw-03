@@ -1,3 +1,3 @@
-# goit-markup-hw-02
-Tarea 2 FS8 Julio Hernandez
+# goit-markup-hw-03
+Tarea 2 FS10 Julio Hernandez
 
